@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:1024px;
+    margin: auto;
+}
+
+ul {
+    width:200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li a {
+    color:green;
+}
+.logo {
+    color:blue;
+}
